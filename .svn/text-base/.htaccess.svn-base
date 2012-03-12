@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteCond $1 !^(index\.html|images|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{HTTP_HOST} !^(admin\.) [NC] 
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]

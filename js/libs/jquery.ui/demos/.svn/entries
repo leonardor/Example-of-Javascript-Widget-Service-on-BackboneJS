@@ -1,0 +1,168 @@
+10
+
+dir
+29145
+svn://dev/backbonejs/branches/1.0/src/js/libs/jquery.ui/demos
+svn://dev
+
+
+
+2012-03-09T12:45:06.287630Z
+29145
+leonardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a4b13bc7-8a40-0410-a248-d7564483f918
+
+resizable
+dir
+
+show
+dir
+
+toggle
+dir
+
+slider
+dir
+
+removeClass
+dir
+
+switchClass
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2012-03-09T12:42:55.000000Z
+2e2ec04700af4ac5681a956cfe405c47
+2012-03-09T12:45:06.287630Z
+29145
+leonardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14338
+
+dialog
+dir
+
+accordion
+dir
+
+autocomplete
+dir
+
+selectable
+dir
+
+position
+dir
+
+images
+dir
+
+toggleClass
+dir
+
+draggable
+dir
+
+droppable
+dir
+
+hide
+dir
+
+index.html
+file
+
+
+
+
+2012-03-09T12:42:50.000000Z
+98ca3dae7fb08e7bd0cd733579b939f3
+2012-03-09T12:45:06.287630Z
+29145
+leonardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14554
+
+button
+dir
+
+datepicker
+dir
+
+sortable
+dir
+
+addClass
+dir
+
+animate
+dir
+

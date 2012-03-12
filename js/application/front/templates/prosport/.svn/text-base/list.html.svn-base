@@ -1,0 +1,13 @@
+<h3>Comentarii:</h3>
+<% if(collection.models.length > 0) { %>
+	<ul>
+	<% _.each(collection.models, function(item) { %>
+		<li><a href='#documents/<%= item.id %>'><%= item.escape('name') %></a> (<%= item.escape('date') %>)<br/><%= item.escape('message') %></li>
+	<% }); %>
+	</ul>
+	<% if(collection.pagination.show) { %> 
+		<%= pagination %>
+	<% } %>
+<% } else { %>
+	<p>nu exista comentarii</p>
+<% } %>

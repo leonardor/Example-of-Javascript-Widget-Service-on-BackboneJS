@@ -1,0 +1,113 @@
+10
+
+dir
+29082
+svn://dev/backbonejs/branches/1.0/src/js/application/front
+svn://dev
+
+
+
+2012-03-05T13:41:32.530151Z
+29082
+leonardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a4b13bc7-8a40-0410-a248-d7564483f918
+
+helpers
+dir
+
+models
+dir
+
+routers
+dir
+
+front.js
+file
+29147
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+themes
+dir
+
+controllers
+dir
+
+app.js
+file
+29167
+
+
+
+2012-03-12T13:55:01.000000Z
+b5912588f4c35e22a48cb956d21fb406
+2012-03-12T14:03:45.103703Z
+29167
+leonardo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6225
+
+nls
+dir
+
+views
+dir
+
+collections
+dir
+
+templates
+dir
+
