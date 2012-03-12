@@ -1,5 +1,5 @@
 Javascript Widget Service on BackboneJS
-===================================
+=======================================
 
 Introduction
 ------------
