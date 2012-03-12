@@ -46,7 +46,7 @@ a) a list of recommended comments by rating
 b) a comment form
 c) a list of comments with pagination
 
-Every widget is installed on the website by a sigle html code line like this:
+Every widget is installed on the website by a single html code line like this:
 
 &lt;div data-id="comments-recommended" data-topic-id="1"&gt;&lt;/div&gt;
 
