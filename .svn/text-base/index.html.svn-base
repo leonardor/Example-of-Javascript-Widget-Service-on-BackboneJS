@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Example of Javascript Webservice on BackboneJS</title>
+	<script type="text/javascript" src="custom-config.js"></script>
+	<script type="text/javascript" data-main="/js/application/index.js" src="/js/libs/require/require.min.js"></script>
+</head>
+<body>
+
+<div id="app">
+	<div id="comments">
+		<div data-id="comments-recommended" data-topic-id="1"></div>
+		<div data-id="comments-add" data-topic-id="1"></div>
+		<div data-id="comments-list" data-topic-id="1"></div>
+		<hr/>
+		<div data-id="comments-recommended" data-topic-id="2"></div>
+		<div data-id="comments-add" data-topic-id="2"></div>
+		<div data-id="comments-list" data-topic-id="2"></div>
+	</div>
+</div>
+
+</body>
+</html>
