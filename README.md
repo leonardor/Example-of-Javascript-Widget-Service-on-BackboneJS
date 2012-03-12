@@ -25,7 +25,7 @@ other html template and so on):
 About the widget
 ----------------
 
-This example is a applied centralized widget for listing and adding comments through a third-party
+This example is an applied centralized widget for listing and adding comments through a third-party
 webservice.
 
 The need of a centralized widget arises when you have to:
