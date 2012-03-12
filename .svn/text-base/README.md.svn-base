@@ -25,7 +25,8 @@ other html template and so on):
 About the widget
 ----------------
 
-This example is a applied centralized widget for listing and adding comments through a third-party webservice.
+This example is an applied centralized widget for listing and adding comments through a third-party
+webservice.
 
 The need of a centralized widget arises when you have to:
 
@@ -45,7 +46,7 @@ a) a list of recommended comments by rating
 b) a comment form
 c) a list of comments with pagination
 
-Every widget is installed on the website by a sigle html code line like this:
+Every widget is installed on the website by a single html code line like this:
 
 &lt;div data-id="comments-recommended" data-topic-id="1"&gt;&lt;/div&gt;
 
@@ -57,17 +58,20 @@ or
 
 &lt;div data-id="comments-list" data-topic-id="1"&gt;&lt;/div&gt;
 		
-Every widget has an HTML5 attribute data-topic-id which is used to retrieve and send data to the webservice.
+Every widget has an HTML5 attribute data-topic-id which is used to retrieve and send data to
+the webservice.
 
-The HTML5 attribute data-id is used to index the html elements in combination with the data-topic-id because
-one can put multiple widgets on a page and otherwise their normal id attributes will collide.
+The HTML5 attribute data-id is used to index the html elements in combination with the data-topic-id
+because one can put multiple widgets on a page and otherwise their normal id attributes will collide.
 
-The REST webservice that processes and serves the data is not included. This webservice can be developed in any
-given programming language one needs and the method would be bound to the Comment model (add) and the Comments collection (list).
+The REST webservice that processes and serves the data is not included. This webservice can be
+developed in any given programming language one needs and its methods would be bound to the
+Comment model (add) and the Comments collection (list).
 
 What you can do with it
 -----------------------
 
-As a practical example of a BackboneJS application this code is free for use and modifications as you see fit.
+As a practical example of a BackboneJS application this code is free for use and modifications
+as you see fit.
 
 Have fun!

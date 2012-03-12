@@ -1,14 +1,14 @@
 10
 
 dir
-29082
+29176
 svn://dev/backbonejs/branches/1.0/src/js/application/front
 svn://dev
 
 
 
-2012-03-05T13:41:32.530151Z
-29082
+2012-03-12T17:02:28.824736Z
+29174
 leonardo
 
 
@@ -35,30 +35,6 @@ dir
 routers
 dir
 
-front.js
-file
-29147
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-deleted
-
 themes
 dir
 
@@ -67,7 +43,7 @@ dir
 
 app.js
 file
-29167
+
 
 
 
