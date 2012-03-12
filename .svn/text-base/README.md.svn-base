@@ -33,11 +33,10 @@ The need of a centralized widget arises when you have to:
 a) quickly install a widget without having to programm it from scratch all the time
 (this centralized widget is meant to give the developer one script line installation and
 different options to customize it)
-b) validate the input data from a client widget (you can't rely on the programmer knowlegde
-and intention to validate it)
+b) validate the input data from a client widget (you can't rely on the programmer's knowlegde
+and intention to validate it by the book)
 c) limit the access to the data of a given client (by forbiding the rendering to the
-affiliated website, or by blocking an ip
-address that abuses it)
+affiliated website, or by blocking an ip address that abuses it)
 
 Supposing that every item on a website has a topic associted with it, the widgets we are
 building will be bound accordingly to a topic. So, the frontend example widgets are:
