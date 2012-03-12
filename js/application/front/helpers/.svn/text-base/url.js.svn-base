@@ -2,7 +2,6 @@ define([],
 function () {
 	 var Url = {
 		initialize: function() {
-			alert('t');
 		},
 		loadCss: function(url) {
 			var link = document.createElement("link");
