@@ -17,8 +17,8 @@ The application is loaded only with one script line:
 &lt;script type="text/javascript" data-main="/js/application/index.js" src="/js/libs/require/require.min.js"&gt;&lt;/script&gt;
 
 An optional custom configuration file can be loaded to overwrite the default application data
-(that is useful when you have multiple sites needing different setting like other css theme
-or other html template and so on):
+(that is useful when you have multiple sites needing different settings like: other css theme,
+other html template and so on):
 
 &lt;script type="text/javascript" src="custom-config.js"&gt;&lt;/script&gt;
 
